@@ -19,7 +19,7 @@
 | Field       | Skills & Tools |
 |-------------|----------------|
 | 💻 Programming | Python, Bash, R (learning), Assembly (starting) |
-| 🛡️ CyberSec    | Red Teaming, Linux, Networking, TryHackMe Top 5% |
+| 🛡️ CyberSec    | Red Teaming, Linux, Networking, TryHackMe Top 3% |
 | ⚙️ Tools       | Nmap, Netcat, Burp, Metasploit, Gobuster, Wireshark |
 | 🧰 Dev Basics  | Git, GitHub, CLI, Terminal Customization |
 
