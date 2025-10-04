@@ -51,6 +51,10 @@
 
 ---
 
+# ❌ Error404 : Love Not Found 💔
+
+---
+
 ## ⚡ Quote
 
 > `"I don’t scroll reels. I scroll logs."`  
